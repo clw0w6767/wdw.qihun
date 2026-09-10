@@ -1,0 +1,4 @@
+encrypt.key
+backups/
+*.log
+config.php
